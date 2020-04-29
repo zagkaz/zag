@@ -2171,3 +2171,25 @@ button.btn {
  max-width:100%;
  overflow:hidden
 }
+#chat__body {
+ height: calc(146.66666666666666px - 38px);
+}
+#chat,
+#app {
+ height: 146.66666666666666px;
+}
+#online_users {
+ height: 149.66666666666666px;
+}
+#user_profile {
+ max-height: 146.66666666666666px;
+}
+#chat__body__messages_container {
+ height: calc(146.66666666666666px - 32px - 40px);
+}
+.user_profile__scroll_area {
+ max-height: 133.46666666666667px;
+}
+.reveal_names_body {
+ height: 95.33333333333331px;
+}
